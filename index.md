@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/xianbang.jpg" class="floatpic" width="360" height="480">
+<img src="/images/xf.jpg" class="floatpic" width="360" height="480">
 
 Here is **Xianbang Feng (冯宪邦)**.
 
