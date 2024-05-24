@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://media.licdn.com/dms/image/D4D03AQEoRb8BM8QJpQ/profile-displayphoto-shrink_800_800/0/1673352974788?e=1721865600&v=beta&t=9u916TRLa_OKlVxUauaBfLl0bI7PzS0zKA8wMUeQ-Ak" class="floatpic" width="360" height="480">
+<img src="/images/xianbang.jpg" class="floatpic" width="360" height="480">
 
 Here is **Xianbang Feng (冯宪邦)**.
 

@@ -31,7 +31,7 @@ title: Publications
 
 ## Participation in projects
 
-- [FACE Underground](https://www.birmingham.ac.uk/research/bifor/face/face-underground)<br>*PhD thesis 1st Chapter.*<br> Advisors: Iain Hartley, Sami Ullah, Andy Smith<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Birmingham, UK. June, 2024.<br>
+- [BIFoR FACE Underground](https://www.birmingham.ac.uk/research/bifor/face/face-underground)<br>*PhD thesis 1st Chapter.*<br> Advisors: Iain Hartley, Sami Ullah, Andy Smith<br>Birmingham, UK. June, 2024.<br>
 
 - [Quinquennial (half-decadal) carbon and nutrient dynamics in temperateforests](https://www.birmingham.ac.uk/research/bifor/face/quintus)<br>*PhD thesis 2rd Chapter.*<br> Advisors: Iain Hartley, Sami Ullah, Andy Smith<br>Birmingham, UK. July, 2023.<br>
 
