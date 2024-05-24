@@ -16,7 +16,7 @@ title: Awards
 
 ## Certification
 
-- Jan 2022：International English Language Testing System (IELTS): overall 7
+- Jan 2021：International English Language Testing System (IELTS): overall 7
     - Listening: 7
     - Reading: 8
     - Speaking: 6.5

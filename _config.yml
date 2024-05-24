@@ -7,7 +7,7 @@ url: https://castlemaker.github.io/
 # Owner/author information
 owner:
   name: Xianbang Feng
-  avatar: src="/images/xianbang.jpg"
+  avatar: "/images/xianbang.jpg"
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: xf258@exeter.ac.uk
   cv: https://geography.exeter.ac.uk/people/profile/index.php?web_id=Xianbang_Feng
