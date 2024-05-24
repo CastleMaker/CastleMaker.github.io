@@ -7,14 +7,14 @@ url: https://castlemaker.github.io/
 # Owner/author information
 owner:
   name: Xianbang Feng
-  avatar: xianbang.JPG
+  avatar: xianbang.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: xf258@exeter.ac.uk
   cv: https://geography.exeter.ac.uk/people/profile/index.php?web_id=Xianbang_Feng
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: castle19983
-  github: https://github.com/CastleMaker
-  linkedin: https://www.linkedin.com/in/xianbang-feng-9660721b1/
+  github: CastleMaker
+  linkedin: xianbang-feng-9660721b1/
   scholar: https://scholar.google.com/citations?user=V_PAzvwAAAAJ&hl=en
   orcid: https://orcid.org/0009-0007-3094-7659
 
@@ -38,8 +38,6 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: UK/Exeter

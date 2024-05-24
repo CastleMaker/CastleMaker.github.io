@@ -6,47 +6,21 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
 
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 10-year swimming career. Recently, I am also keen on surfing.
+## Documentray
+I have a keen interest in watching documentaries, as they offer a fascinating glimpse into various aspects of the world. Recently, I have been particularly captivated by "Clarkson's Farm." This engaging series follows Jeremy Clarkson as he embarks on the challenging journey of managing his own farm. Watching documentaries like this allows me to broaden my knowledge and gain new perspectives on different subjects.
 
-## Workshop
+## Hiking
+I enjoy hiking in forests and hills. Exploring the great outdoors provides me with a sense of adventure and tranquility. Recently, I went hiking in Dartmoor, near Exeter. The stunning landscapes and rugged terrain of Dartmoor offer a perfect escape from the hustle and bustle of daily life. Each hike presents a new opportunity to discover the natural beauty of the area and challenge myself physically.
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There must be **something truly magical** about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+## Gym
+Recently, I have started to embrace fitness, focusing on powerlifting. I am dedicated to my training routine, going to the gym on Mondays, Tuesdays, Thursdays, and Saturdays. Powerlifting has become a new passion for me, as it not only improves my physical strength but also enhances my mental resilience and discipline.
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
-
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
+## Video Games
+Occasionally, I also indulge in playing video games during my free time. Some of my favorite games include Zelda, Stardew Valley, and FC (Football Club). These games offer a wonderful mix of adventure, creativity, and strategy, providing a fun and relaxing way to unwind.
 
 ## Chat with me
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
+I have set up the [online-coffee-time](https://calendly.com/castle19983/30min). Welcome to chat with me!
 
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
 

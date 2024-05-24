@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://media.licdn.com/dms/image/D4D03AQEoRb8BM8QJpQ/profile-displayphoto-shrink_800_800/0/1673352974788?e=1721865600&v=beta&t=9u916TRLa_OKlVxUauaBfLl0bI7PzS0zKA8wMUeQ-Ak" class="floatpic" width="360" height="480">
 
 Here is **Xianbang Feng (冯宪邦)**.
 
@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2022 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
+- **Sep 2022 - Future：**University of Exeter (Incoming physical geography PhD, mainly supervised by [Prof Iain Hartley](https://www.exeter.ac.uk/research/esi/people/profile/index.php?web_id=Iain_Hartley))
 - **Sep 2021 - Nov 2022:** University of Manchester (MSc, Environmental Monitoring, Modelling and Reconstruction, Distinction)
 - **Sep 2020 - June 2021:** University of Reading (BSc, Environmental Science, First Degree)
 - **Sep 2017 - June 2021:** Nanjing University of Information Science & Technology (BEng, Environmental Engineering)
