@@ -4,11 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 14th May 2024&nbsp;
+> Lastest Update: 24th May 2024&nbsp;
 
 ## Conference Paper
 
-- Poster: Ectomycorrhizal decomposition responses to elevated atmospheric carbon dioxide enrichment of a mature temperate deciduous forest<br>**Xianbang Feng**, Sami Ullah, Liz Hamiltion, Iain Hartley<br>The 12th International Conference on Mycorrhizas ([ICOM12](https://icom12.org/))<br>Manchester, UK. Aug, 2024.
+- Poster: [Ectomycorrhizal decomposition responses to elevated atmospheric carbon dioxide enrichment of a mature temperate deciduous forest](/mypaper/poster/ICOM12.md)<br>**Xianbang Feng**, Sami Ullah, Liz Hamilton, Rob Mackenzie and Iain Hartley<br>The 12th International Conference on Mycorrhizas ([ICOM12](https://icom12.org/))<br>Manchester, UK. Aug, 2024.
 
   <br>
 
