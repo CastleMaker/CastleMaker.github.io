@@ -32,7 +32,3 @@ My research interests lie in the intersection of soil ecology and ecosystem proc
 ---
 
 
-
----
-
-
